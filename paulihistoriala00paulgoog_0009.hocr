@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./paulihistoriala00paulgoog_0009.png"; bbox 0 0 3040 5014; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 445 714 928 865">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 445 597 962 865">
+     <span class='ocr_line' id='line_1_1' title="bbox 445 714 928 865; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 445 714 928 865; x_wconf 81' lang='lat' dir='ltr'>PAULI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 9 1163 1303 1346">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 9 1049 1303 1403">
+     <span class='ocr_line' id='line_1_2' title="bbox 9 1163 1303 1346; baseline 0.002 -5"><span class='ocrx_word' id='word_1_2' title='bbox 9 1284 12 1288; x_wconf 76' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 76 1163 471 1345; x_wconf 64' lang='lat' dir='ltr'><strong>ffls&#39;fofflA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 527 1164 1303 1346; x_wconf 73' lang='lat' dir='ltr'><strong>LANGOBARDORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 195 2499 1188 2634">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 195 2499 1188 2634">
+     <span class='ocr_line' id='line_1_3' title="bbox 195 2499 1188 2634; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 195 2553 536 2633; x_wconf 67' lang='lat' dir='ltr'>MONUMENws</span> <span class='ocrx_word' id='word_1_6' title='bbox 565 2499 867 2628; x_wconf 68' lang='lat' dir='ltr'>GERMANIAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 894 2553 1188 2634; x_wconf 59' lang='lat' dir='ltr'>fflssromffls</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1524 5014">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1524 5014">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1524 5014; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1524 5014; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
